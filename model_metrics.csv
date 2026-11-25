@@ -1,0 +1,5 @@
+model,MAPE_%,RMSE
+"SARIMA(1,1,1)(0,1,1,12)",1.3,6944.0
+Gradient boosting (YoY growth),1.44,7575.0
+Seasonal naive (same month last year),3.23,15522.0
+Naive (last month),6.7,41451.0
